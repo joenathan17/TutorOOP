@@ -7,6 +7,9 @@ int main(){
 	cout << "Hello Git!"<< endl;
 	cout << "lalalala" << endl;
 	cout << "yeyeye" << endl;
+<<<<<<< HEAD
 	cout << "jelek" <<endl;
+=======
+>>>>>>> experiment
 	return 0;
 }
